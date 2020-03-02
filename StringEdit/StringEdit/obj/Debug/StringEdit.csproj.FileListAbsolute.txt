@@ -1,0 +1,20 @@
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\bin\Debug\StringEdit.exe.config
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\bin\Debug\StringEdit.exe
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\bin\Debug\StringEdit.pdb
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.Form1.resources
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.Properties.Resources.resources
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.csproj.GenerateResource.cache
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.exe
+C:\Users\Mpavao\source\repos\StringEdit\StringEdit\obj\Debug\StringEdit.pdb
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\bin\Debug\StringEdit.exe.config
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\bin\Debug\StringEdit.exe
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\bin\Debug\StringEdit.pdb
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.csprojAssemblyReference.cache
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.Form1.resources
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.Properties.Resources.resources
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.csproj.GenerateResource.cache
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.exe
+C:\Users\Mpavao\OneDrive\School Work\C#\C-Practice\StringEdit\StringEdit\obj\Debug\StringEdit.pdb

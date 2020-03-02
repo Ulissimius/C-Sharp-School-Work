@@ -1,0 +1,7 @@
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\bin\Debug\Batting Average Program.exe.config
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\bin\Debug\Batting Average Program.exe
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\bin\Debug\Batting Average Program.pdb
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\obj\Debug\Batting Average Program.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\obj\Debug\Batting Average Program.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\obj\Debug\Batting Average Program.exe
+C:\Users\Mpavao\source\repos\Batting Average Program\Batting Average Program\obj\Debug\Batting Average Program.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\bin\Debug\Random Mine.exe.config
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\bin\Debug\Random Mine.exe
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\bin\Debug\Random Mine.pdb
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random Mine.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random_Mine.Form1.resources
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random_Mine.Properties.Resources.resources
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random Mine.csproj.GenerateResource.cache
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random Mine.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random Mine.exe
+C:\Users\Mpavao\source\repos\Random Mine\Random Mine\obj\Debug\Random Mine.pdb

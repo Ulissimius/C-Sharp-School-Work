@@ -1,0 +1,7 @@
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\bin\Debug\Bill Tiping Calc Prog.exe.config
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\bin\Debug\Bill Tiping Calc Prog.exe
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\bin\Debug\Bill Tiping Calc Prog.pdb
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\obj\Debug\Bill Tiping Calc Prog.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\obj\Debug\Bill Tiping Calc Prog.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\obj\Debug\Bill Tiping Calc Prog.exe
+C:\Users\Mpavao\source\repos\Bill Tiping Calc Prog\Bill Tiping Calc Prog\obj\Debug\Bill Tiping Calc Prog.pdb

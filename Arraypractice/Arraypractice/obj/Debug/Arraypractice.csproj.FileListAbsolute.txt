@@ -1,0 +1,7 @@
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\bin\Debug\Arraypractice.exe.config
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\bin\Debug\Arraypractice.exe
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\bin\Debug\Arraypractice.pdb
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\obj\Debug\Arraypractice.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\obj\Debug\Arraypractice.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\obj\Debug\Arraypractice.exe
+C:\Users\Mpavao\source\repos\Arraypractice\Arraypractice\obj\Debug\Arraypractice.pdb

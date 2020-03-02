@@ -1,0 +1,10 @@
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\bin\Debug\Enter Your Name.exe.config
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\bin\Debug\Enter Your Name.exe
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\bin\Debug\Enter Your Name.pdb
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter Your Name.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter_Your_Name.Form1.resources
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter_Your_Name.Properties.Resources.resources
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter Your Name.csproj.GenerateResource.cache
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter Your Name.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter Your Name.exe
+C:\Users\Mpavao\source\repos\Enter Your Name\Enter Your Name\obj\Debug\Enter Your Name.pdb

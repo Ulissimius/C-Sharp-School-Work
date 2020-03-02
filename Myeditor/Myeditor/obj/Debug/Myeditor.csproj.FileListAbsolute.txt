@@ -1,0 +1,10 @@
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\bin\Debug\Myeditor.exe.config
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\bin\Debug\Myeditor.exe
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\bin\Debug\Myeditor.pdb
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.Form1.resources
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.Properties.Resources.resources
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.csproj.GenerateResource.cache
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.exe
+C:\Users\Mpavao\source\repos\Myeditor\Myeditor\obj\Debug\Myeditor.pdb

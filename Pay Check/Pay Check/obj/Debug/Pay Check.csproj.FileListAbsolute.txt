@@ -1,0 +1,7 @@
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\bin\Debug\Pay Check.exe.config
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\bin\Debug\Pay Check.exe
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\bin\Debug\Pay Check.pdb
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\obj\Debug\Pay Check.csprojAssemblyReference.cache
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\obj\Debug\Pay Check.csproj.CoreCompileInputs.cache
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\obj\Debug\Pay Check.exe
+C:\Users\Mpavao\source\repos\Pay Check\Pay Check\obj\Debug\Pay Check.pdb
